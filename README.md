@@ -30,6 +30,6 @@ A line plot has been produced for mouse m957 (treated with Capomulin) to illustr
 
 A scatter plot is producted showing the relationship between the weight and average tumor volume of mice within the Capomulin regimen.
 
-## Correlation and Regression
+### Correlation and Regression
 
 A linear regression and correlation coefficient has been calculated for the previous scatter plot.
